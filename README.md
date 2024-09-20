@@ -15,7 +15,7 @@
 2. **Instalasi**:
    - Clone repositori ini:
      ```bash
-     git clone https://github.com/farrelputra16/quiz-kriptografi.git
+     git clone https://github.com/thorikin/KRIPTO-CIPHER.git
      ```
    - Masuk ke direktori:
      ```bash
