@@ -19,7 +19,7 @@
      ```
    - Masuk ke direktori:
      ```bash
-     cd quiz-kriptografi
+     cd quiz_kriptografi_muh-thorikin-z
      ```
 
 3. **Menjalankan Program**:
