@@ -1,0 +1,9 @@
+Selamat datang di dunia kriptografi. Kriptografi adalah seni dan ilmu untuk menjaga kerahasiaan informasi. Dalam era digital ini, keamanan informasi sangat penting. Dengan berbagai metode enkripsi, kita dapat melindungi data dari ancaman yang tidak diinginkan.
+
+Salah satu metode yang populer adalah Vigenère Cipher, yang menggunakan kunci untuk mengenkripsi pesan. Metode lain seperti Playfair Cipher dan Hill Cipher juga menawarkan pendekatan unik dalam melindungi informasi.
+
+Penting untuk memahami bahwa kriptografi bukan hanya untuk keamanan, tetapi juga untuk integritas data. Enkripsi memastikan bahwa hanya pihak yang berwenang yang dapat mengakses informasi yang sensitif.
+
+Saat menggunakan aplikasi ini, Anda dapat mencoba berbagai metode enkripsi dengan kunci yang berbeda. Pastikan kunci yang digunakan cukup kuat dan panjang untuk meningkatkan keamanan.
+
+Akhir kata, teruslah belajar dan eksplorasi lebih dalam tentang dunia kriptografi. Semoga informasi ini bermanfaat dan membantu Anda dalam memahami konsep dasar kriptografi.
